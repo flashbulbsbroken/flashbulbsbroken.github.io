@@ -123,8 +123,14 @@ textarea {
 	margin-bottom: 10px;
 }
 
+button {
+	font-size: 30px;
+	margin: 0 auto;
+	width: 150px;
+}
 
-
-
+section {
+	display: none;
+}
 
 
