@@ -1,4 +1,2 @@
 # resumeredo
-Take 2 of the resume challenge
-# prime_prestudy_03_resume
-# prime_prestudy_03_resume
+Take original resume that was submitted with application to Prime Digital Academy and rework to include new material. 
